@@ -1,0 +1,18 @@
+ii  libnvidia-cfg1-510:amd64             510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA binary OpenGL/GLX configuration library
+ii  libnvidia-common-510                 510.47.03-0ubuntu0.20.04.1            all          Shared files used by the NVIDIA libraries
+ii  libnvidia-compute-510:amd64          510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA libcompute package
+ii  libnvidia-decode-510:amd64           510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA Video Decoding runtime libraries
+ii  libnvidia-encode-510:amd64           510.47.03-0ubuntu0.20.04.1            amd64        NVENC Video Encoding runtime library
+ii  libnvidia-extra-510:amd64            510.47.03-0ubuntu0.20.04.1            amd64        Extra libraries for the NVIDIA driver
+ii  libnvidia-fbc1-510:amd64             510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA OpenGL-based Framebuffer Capture runtime library
+ii  libnvidia-gl-510:amd64               510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA OpenGL/GLX/EGL/GLES GLVND libraries and Vulkan ICD
+ii  nvidia-compute-utils-510             510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA compute utilities
+ii  nvidia-dkms-510                      510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA DKMS package
+ii  nvidia-driver-510                    510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA driver metapackage
+ii  nvidia-kernel-common-510             510.47.03-0ubuntu0.20.04.1            amd64        Shared files used with the kernel module
+ii  nvidia-kernel-source-510             510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA kernel source package
+ii  nvidia-prime                         0.8.14                                all          Tools to enable NVIDIA's Prime
+ii  nvidia-settings                      470.57.01-0ubuntu0.20.04.2            amd64        Tool for configuring the NVIDIA graphics driver
+ii  nvidia-utils-510                     510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA driver support binaries
+ii  screen-resolution-extra              0.18build1                            all          Extension for the nvidia-settings control panel
+ii  xserver-xorg-video-nvidia-510        510.47.03-0ubuntu0.20.04.1            amd64        NVIDIA binary Xorg driver

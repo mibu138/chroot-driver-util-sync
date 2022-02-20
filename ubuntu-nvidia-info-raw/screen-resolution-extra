@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/screen_resolution_extra-0.0.0.egg-info
+/usr/share
+/usr/share/doc
+/usr/share/doc/screen-resolution-extra
+/usr/share/doc/screen-resolution-extra/changelog.gz
+/usr/share/doc/screen-resolution-extra/copyright
+/usr/share/polkit-1
+/usr/share/polkit-1/actions
+/usr/share/polkit-1/actions/com.ubuntu.screen-resolution-extra.policy
+/usr/share/screen-resolution-extra
+/usr/share/screen-resolution-extra/nvidia-polkit
